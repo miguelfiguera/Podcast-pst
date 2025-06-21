@@ -1,9 +1,3 @@
-¡Excelente observación! Tienes toda la razón. En la versión anterior, combiné las preguntas sobre beneficios y desafíos en una sola para darle más fluidez, pero eso omitió tratar cada punto con la debida atención.
-
-Aquí tienes el guion corregido, ahora sí abordando las 10 preguntas de la lista original de forma separada y manteniendo el tono estrictamente técnico y profesional.
-
----
-
 ### **Guion de Audio: "Kanban: Análisis Técnico de un Sistema de Flujo"**
 
 **(Duración estimada: 22-23 minutos)**
@@ -11,7 +5,6 @@ Aquí tienes el guion corregido, ahora sí abordando las 10 preguntas de la list
 ---
 
 **[00:00]**
-**[Música de introducción sobria y profesional, que se desvanece por completo tras la presentación]**
 
 **Anfitrión (Marcos):** Bienvenidos a "Fronteras de la Agilidad", el podcast donde analizamos en profundidad las metodologías que impulsan la eficiencia en equipos técnicos. Soy vuestro anfitrión, Marcos Vidal.
 
