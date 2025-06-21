@@ -1,3 +1,8 @@
+- Miguel Alejandro Figuera Quintero
+- C.I: 23.558.789
+- Seccion 8B
+- Evaluacion 2
+
 ### **Guion de Audio: "Kanban: Análisis Técnico de un Sistema de Flujo"**
 
 **(Duración estimada: 22-23 minutos)**
